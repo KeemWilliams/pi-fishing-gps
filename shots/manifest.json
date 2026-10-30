@@ -1,0 +1,79 @@
+{
+  "map-currents-wind": {
+    "file": "map-currents-wind.webp",
+    "file1x": "map-currents-wind-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 155356
+  },
+  "map-overview": {
+    "file": "map-overview.webp",
+    "file1x": "map-overview-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 136394
+  },
+  "map-night": {
+    "file": "map-night.webp",
+    "file1x": "map-night-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 136026
+  },
+  "today-kiosk": {
+    "file": "today-kiosk.webp",
+    "file1x": "today-kiosk-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 138508
+  },
+  "today-wind": {
+    "file": "today-wind.webp",
+    "file1x": "today-wind-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 120354
+  },
+  "today-night": {
+    "file": "today-night.webp",
+    "file1x": "today-night-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 137594
+  },
+  "species-grid": {
+    "file": "species-grid.webp",
+    "file1x": "species-grid-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 94960
+  },
+  "species-detail": {
+    "file": "species-detail.webp",
+    "file1x": "species-detail-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 95410
+  },
+  "ask-answer": {
+    "file": "ask-answer.webp",
+    "file1x": "ask-answer-1x.webp",
+    "width": 2048,
+    "height": 1200,
+    "bytes": 117158
+  },
+  "phone-today": {
+    "file": "phone-today.webp",
+    "file1x": "phone-today-1x.webp",
+    "width": 750,
+    "height": 1624,
+    "bytes": 82540
+  },
+  "phone-map": {
+    "file": "phone-map.webp",
+    "file1x": "phone-map-1x.webp",
+    "width": 750,
+    "height": 1624,
+    "bytes": 97216
+  }
+}
