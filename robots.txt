@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keemwilliams.github.io/pi-fishing-gps/sitemap.xml
